@@ -1,0 +1,255 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('/icons/icomoon.eot?2au964');
+  src:  url('/icons/icomoon.eot?2au964#iefix') format('embedded-opentype'),
+    url('/icons/icomoon.ttf?2au964') format('truetype'),
+    url('/icons/icomoon.woff?2au964') format('woff'),
+    url('/icons/icomoon.svg?2au964#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-app_logo_media_popular_reddit_icon .path1:before {
+  content: "\e900";
+  color: rgb(255, 69, 0);
+}
+.icon-app_logo_media_popular_reddit_icon .path2:before {
+  content: "\e901";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.icon-video_youtube_icon .path1:before {
+  content: "\e902";
+  color: rgb(224, 47, 47);
+}
+.icon-video_youtube_icon .path2:before {
+  content: "\e903";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.icon-discord_logo_logos_icon .path1:before {
+  content: "\e924";
+  color: rgb(138, 156, 254);
+}
+.icon-discord_logo_logos_icon .path2:before {
+  content: "\e925";
+  margin-left: -1em;
+  color: rgb(253, 253, 253);
+}
+.icon-chat_slack_slack-logo_icon .path1:before {
+  content: "\e904";
+  color: rgb(224, 30, 90);
+}
+.icon-chat_slack_slack-logo_icon .path2:before {
+  content: "\e905";
+  margin-left: -1em;
+  color: rgb(224, 30, 90);
+}
+.icon-chat_slack_slack-logo_icon .path3:before {
+  content: "\e906";
+  margin-left: -1em;
+  color: rgb(54, 197, 240);
+}
+.icon-chat_slack_slack-logo_icon .path4:before {
+  content: "\e907";
+  margin-left: -1em;
+  color: rgb(54, 197, 240);
+}
+.icon-chat_slack_slack-logo_icon .path5:before {
+  content: "\e908";
+  margin-left: -1em;
+  color: rgb(46, 182, 125);
+}
+.icon-chat_slack_slack-logo_icon .path6:before {
+  content: "\e909";
+  margin-left: -1em;
+  color: rgb(46, 182, 125);
+}
+.icon-chat_slack_slack-logo_icon .path7:before {
+  content: "\e90a";
+  margin-left: -1em;
+  color: rgb(236, 178, 46);
+}
+.icon-chat_slack_slack-logo_icon .path8:before {
+  content: "\e90b";
+  margin-left: -1em;
+  color: rgb(236, 178, 46);
+}
+.icon-linkedin_social_icon .path1:before {
+  content: "\e90c";
+  color: rgb(0, 123, 181);
+}
+.icon-linkedin_social_icon .path2:before {
+  content: "\e90d";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.icon-linkedin_social_icon .path3:before {
+  content: "\e90e";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.icon-linkedin_social_icon .path4:before {
+  content: "\e90f";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.icon-bird_tweet_twitter_twitter-logo_icon:before {
+  content: "\e910";
+  color: #1da1f2;
+}
+.icon-fb_facebook_facebook-logo_icon .path1:before {
+  content: "\e911";
+  color: rgb(24, 119, 242);
+}
+.icon-fb_facebook_facebook-logo_icon .path2:before {
+  content: "\e912";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.icon-icons8-github .path1:before {
+  content: "\e913";
+  color: rgb(0, 0, 0);
+}
+.icon-icons8-github .path2:before {
+  content: "\e914";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.0500;
+}
+.icon-icons8-github .path3:before {
+  content: "\e915";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.0700;
+}
+.icon-icons8-github .path4:before {
+  content: "\e916";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.icon-icons8-stack-overflow .path1:before {
+  content: "\e917";
+  color: rgb(114, 125, 134);
+}
+.icon-icons8-stack-overflow .path2:before {
+  content: "\e918";
+  margin-left: -1em;
+  color: rgb(114, 125, 134);
+}
+.icon-icons8-stack-overflow .path3:before {
+  content: "\e919";
+  margin-left: -1em;
+  color: rgb(137, 119, 107);
+}
+.icon-icons8-stack-overflow .path4:before {
+  content: "\e91a";
+  margin-left: -1em;
+  color: rgb(227, 96, 1);
+}
+.icon-icons8-stack-overflow .path5:before {
+  content: "\e91b";
+  margin-left: -1em;
+  color: rgb(204, 102, 28);
+}
+.icon-icons8-stack-overflow .path6:before {
+  content: "\e91c";
+  margin-left: -1em;
+  color: rgb(182, 108, 54);
+}
+.icon-icons8-stack-overflow .path7:before {
+  content: "\e91d";
+  margin-left: -1em;
+  color: rgb(159, 113, 81);
+}
+.icon-icons8-dribbble .path1:before {
+  content: "\e91e";
+  color: rgb(237, 54, 117);
+}
+.icon-icons8-dribbble .path2:before {
+  content: "\e91f";
+  margin-left: -1em;
+  color: rgb(189, 25, 73);
+}
+.icon-icons8-medium:before {
+  content: "\e926";
+}
+.icon-icons8-tiktok .path1:before {
+  content: "\e920";
+  color: rgb(0, 0, 0);
+}
+.icon-icons8-tiktok .path2:before {
+  content: "\e921";
+  margin-left: -1em;
+  color: rgb(236, 64, 122);
+}
+.icon-icons8-tiktok .path3:before {
+  content: "\e922";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.icon-icons8-tiktok .path4:before {
+  content: "\e923";
+  margin-left: -1em;
+  color: rgb(129, 212, 250);
+}
+
+/* ubuntu font */
+@font-face {
+  font-family: 'Ubuntu';
+  src: url('/fonts/Ubuntu-Regular.woff2') format('woff2'),
+      url('/fonts/Ubuntu-Regular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* proxima nova font */
+@font-face {
+  font-family: 'Proxima Nova';
+  src: url('/fonts/ProximaNova-Regular.woff2') format('woff2'),
+      url('/fonts/ProximaNova-Regular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* main CSS */
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+	background-color: #E5E5E5;
+}
+
+p {
+  font-family: 'Ubuntu';
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Proxima Nova';
+}
+
+.icon {
+  font-size: 3em;
+  margin-bottom: 0.2em;
+}
